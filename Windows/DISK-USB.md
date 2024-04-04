@@ -1,4 +1,4 @@
-# Windows DISK
+# Windows DISK & USB
 
 
 ## Remove Write Protection
