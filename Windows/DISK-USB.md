@@ -3,7 +3,7 @@
 ## Check S.M.A.R.T. Status
 In Windows, you can manually check the S.M.A.R.T. status of your drives from the Command Prompt. Just type "cmd" into the search bar on the taskbar and open the application. In the pop-up box, run the following:
 
-```windows
+```console
 wmic diskdrive get model,status
 ```
 
