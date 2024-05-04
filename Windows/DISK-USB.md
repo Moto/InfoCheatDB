@@ -39,14 +39,13 @@ Exit
  
 ## Helpful Drive Software
 Seagate Seatools
-```console
+
 [Seagate Seatools 5](https://www.seagate.com/support/downloads/seatools/)
-```
+
 Western Digital Dashboard
-```console
+
 [Western Digital Software Downloads](https://support-en.wd.com/app/products/downloads/softwaredownloads)
-```
-Seagate Seatools
-```console
-https://www.seagate.com/support/downloads/seatools/
-```
+
+PARAGON Partition Manager
+
+[Community Edition](https://www.paragon-software.com/us/free/pm-express/)
