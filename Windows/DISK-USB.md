@@ -24,9 +24,9 @@ and then Enter again. You'll see a numbered list of all disk volumes.
 Find your USB drive by looking at the size of each volume and comparing it with your flash drive size. Type
 ```console
 select disk #
-``"select disk 1" or "select disk 2", etc. depending on the number Windows assigned to your USB drive.
+```
+"select disk 1" or "select disk 2", etc. depending on the number Windows assigned to your USB drive.
 Press Enter.
-
 Next, type this exact phrase:
 ```console
 Attributes disk clear readonly
