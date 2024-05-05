@@ -39,13 +39,14 @@ Exit
  
 ## Helpful Drive Software
 Seagate Seatools
-
 [Seagate Seatools 5](https://www.seagate.com/support/downloads/seatools/)
 
 Western Digital Dashboard
-
 [Western Digital Software Downloads](https://support-en.wd.com/app/products/downloads/softwaredownloads)
 
-PARAGON Partition Manager
+Samsung SSD Magician Software
+[Magic](https://www.samsung.com/us/memory-storage/magician-software/)
+Works with any Samsung storage USB, SSD, Memroy Cards etc.
 
+PARAGON Partition Manager
 [Community Edition](https://www.paragon-software.com/us/free/pm-express/)
