@@ -28,7 +28,7 @@ Using the Registry menu, export the selected registry key to make a backup. Stor
 
 Delete the selected registry key and its values. 
 
-> :warning: Do not delete the entire Uninstall key!
+> :stop_sign: Do not delete the entire Uninstall key!
 
 Quit Registry Editor.
 
